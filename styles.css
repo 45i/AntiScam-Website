@@ -22,6 +22,7 @@ nav {
   width: 100%;
   position: fixed;
   background: #76250f;
+  z-index: 1;
 }
 nav ul {
   float: right;
