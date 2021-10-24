@@ -22,7 +22,12 @@ nav {
   width: 100%;
   position: fixed;
   background: #76250f;
+  transition:0.75s;
   z-index: 1;
+}
+nav:hover{
+  background: #4e1a0c8b;
+  transition:0.75s;
 }
 nav ul {
   float: right;
