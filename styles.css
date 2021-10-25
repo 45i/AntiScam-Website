@@ -25,6 +25,11 @@ nav {
   transition:0.75s;
   z-index: 1;
 }
+@media (max-width: maximum_width_px) {
+    changes {
+        a: b;
+    }
+}
 nav:hover{
   background: #4e1a0c8b;
   transition:0.75s;
