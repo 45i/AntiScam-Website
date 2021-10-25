@@ -82,6 +82,7 @@ section{
 ::-webkit-scrollbar {
     width: 15px;
     transition: 0.75s;
+  background: #76250f;
 }
 
 /* Track */
