@@ -78,7 +78,68 @@ section{
   padding: 80px 100px;
   color: #fff;
 }
-  
+  @keyframes animateslash{
+    0%{
+        opacity: 1;
+        z-index: 2;
+    }
+    100%{
+        opacity: 0;
+        z-index: 0;
+    }
+}
+@-webkit-keyframes animateslash{
+    0%{
+        opacity: 1;
+        z-index: 2;
+    }
+    100%{
+        opacity: 0;
+        z-index: 0;
+    }
+}
+@keyframes breakeranimate{
+   0%{ transform : translateX(-150%) rotate(15deg)  translateY(-50%);}
+   50%{ transform : translateX(0%) rotate(15deg)  translateY(-50%);}
+   100%{ transform : translateX(150%) rotate(15deg)  translateY(-50%);}
+}
+@-webkit-keyframes breakeranimate{
+    0%{ transform : translateX(-150%) rotate(15deg)  translateY(-50%);}
+    50%{ transform : translateX(0%) rotate(15deg)  translateY(-50%);}
+    100%{ transform : translateX(150%) rotate(15deg)  translateY(-50%);}
+}
+@keyframes scale{
+    0%{
+        transform: scale(.6);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+@-webkit-keyframes breakeranimate{
+    0%{
+        transform: scale(.6);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+@keyframes rotate{
+    0%{
+   transform: rotate(0deg);
+    }
+    100%{
+   transform: rotate(360deg);
+    }
+}
+@-webkit-keyframes rotate{
+    0%{
+        transform: rotate(0deg);
+         }
+         100%{
+        transform: rotate(360deg);
+         }
+}
 /* Designing for scroll-bar */
 ::-webkit-scrollbar {
     width: 15px;
