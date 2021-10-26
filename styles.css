@@ -96,25 +96,7 @@ section{
     backdrop-filter: blur(20px);
 } */
 /* Handle */
- #loader-wrapper .loader-section {
-    position: fixed;
-    top: 0;
-    width: 51%;
-    height: 100%;
-    background: #222222;
-    z-index: 1000;
-}
- 
-#loader-wrapper .loader-section.section-left {
-    left: 0;
-}
- 
-#loader-wrapper .loader-section.section-right {
-    right: 0;
-}
-#loader {
-    z-index: 1001; /* anything higher than z-index: 1000 of .loader-section */
-}
+
 h1 {
     color: #EEEEEE;
 }
@@ -129,52 +111,24 @@ h1 {
  
     
 }
-/* Loaded */
-.loaded #loader-wrapper .loader-section.section-right,
-.loaded #loader-wrapper .loader-section.section-left {
- 
-    -webkit-transition: all 0.7s 0.3s cubic-bezier(0.645, 0.045, 0.355, 1.000);
-                transition: all 0.7s 0.3s cubic-bezier(0.645, 0.045, 0.355, 1.000);
-}
-.loaded #loader {
-    opacity: 0;
-}
-.no-js #loader-wrapper {
-    display: none;
-}
-.no-js h1 {
-    color: #222222;
-}
+  #loader{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      height:100vh;
+      position: fixed;
+      z-index:100;
+      font-family: poppins;
+      background-color: #202020;
+      color: whitesmoke;
+      font-size: 70px;
+      width: 100%;
+  }
 #hell{
   transition:  0.75s;
 }
-.loaded #loader-wrapper {
-        -webkit-transform: translateY(-100%);
-            -ms-transform: translateY(-100%);
-                transform: translateY(-100%);
- 
-        -webkit-transition: all 0.3s 1s ease-out;
-                transition: all 0.3s 1s ease-out;
-}
-.loaded #loader {
-    opacity: 0;
-    -webkit-transition: all 0.3s ease-out;
-            transition: all 0.3s ease-out;
-}
-.loaded #loader-wrapper .loader-section.section-right,
-.loaded #loader-wrapper .loader-section.section-left {
- 
-    -webkit-transition: all 0.3s 0.3s ease-out;
-            transition: all 0.3s 0.3s ease-out;
-}
-.loaded #loader-wrapper {
-        -webkit-transform: translateY(-100%);
-            -ms-transform: translateY(-100%);
-                transform: translateY(-100%);
- 
-        -webkit-transition: all 0.3s 0.6s ease-out;
-                transition: all 0.3s 0.6s ease-out;
-}
+
 .c--anim-btn span {
         
         text-decoration: none;
