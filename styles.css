@@ -27,23 +27,33 @@ nav {
   background: #76250f;
   transition:0.75s;
   z-index: 1;
-	
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 
 nav:hover{
   background: #4e1a0c8b;
   transition:0.75s;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 nav ul {
   float: right;
   margin-right: 20px;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 a{
-  text-decoration: none;}
+  text-decoration: none;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
+}
 nav li {
   display: inline-block;
   line-height: 80px;
   margin: 0 5px;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 
 nav a {
@@ -51,12 +61,16 @@ nav a {
   font-size: 17px;
   padding: 7px 13px;
   border-radius: 3px;transition: .5s;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 
 nav a:hover {
   background: black;
   color: white;
   transition: .5s;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 
 label.logo {
@@ -66,14 +80,18 @@ label.logo {
   line-height: 80px;
   padding: 0 100px;
   font-weight: bold;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 .label{
+cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
     
     text-size-adjust: 20%;
     transition: 0.75s;
 }
 
 section{
+cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
   
   position: relative;
   display: flex;
@@ -158,14 +176,16 @@ section{
 ::-webkit-scrollbar {
     width: 15px;
     transition: 0.75s;
-  background: #76250f;
+  background: #76250f;cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 
 /* Track */
 ::-webkit-scrollbar-track {
         background: rgba(255, 255, 255, 0);
       backdrop-filter: blur(20px);
-    border-radius: 5px;
+    border-radius: 5px;cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 /* ::-webkit-scrollbar-track-piece{
     backdrop-filter: blur(20px);
@@ -174,8 +194,11 @@ section{
 
 h1 {
     color: #EEEEEE;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 ::-webkit-scrollbar-thumb {
+cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
     background: white;
      
      border-radius: 150px; 
@@ -184,6 +207,7 @@ h1 {
 ::-webkit-scrollbar-thumb:hover {
     background: #555;
  
+cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
     
 }
   #loader{
@@ -202,6 +226,8 @@ h1 {
   }
 #hell{
   transition:  0.75s;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 
 .c--anim-btn span {
@@ -209,29 +235,36 @@ h1 {
         text-decoration: none;
         text-align: center;
         display: block;
+cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
   
         }
         
 .c--anim-btn, .c-anim-btn {
         transition: 0.75s;   
-        }
+cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
+}
         
 .c--anim-btn {
         height: 64px;
         font: normal normal 700 1.2em/4em Poppins,sans-serif;
         overflow: hidden;
-  
+  cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
         
         }
         
 .c-anim-btn{
-  
+  cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
         margin-top: 0em; 
         }
         
 .c--anim-btn:hover .c-anim-btn{
         margin-top: -5em;
         background: #4e1a0c8b;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
         }
 .container{
   position: relative;
@@ -240,21 +273,29 @@ h1 {
   align-items: center;
   flex-direction: column;
   transition: 0.75s;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 
 .main-title{
   font-size: 4em;
   margin-bottom: 50px;
   transition: 0.75s;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 .main-title2{
   font-size: 4em;
   margin-bottom: 50px;
   transition: 0.75s;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 .main-title2:hover{
   font-size: 8em;
   transition: 0.75s;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 .content{
   position: relative;
@@ -263,6 +304,8 @@ h1 {
   justify-content: center;
   align-items: center;
   transition: 1s;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 
 .content .image{
@@ -271,6 +314,8 @@ h1 {
   height: 200px;
   overflow: hidden;
   transition: 0.75s;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 .content .img{
     position: relative;
@@ -278,12 +323,16 @@ h1 {
   height: 400px;
   overflow: hidden;
   transition: 0.75s;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 .image:hover{
   width: 800px;
   height: 400px;
   transition: 0.75s;
   overflow: unset;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
   
 }
 
@@ -295,6 +344,8 @@ h1 {
   bottom: 0;
   left: 0;
   z-index: 99;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 .content .image img{
   z-index: 111;
@@ -305,6 +356,8 @@ h1 {
   height: 100%;
   object-fit: cover;
   border-radius: 10px;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 
 .content .text-box{
@@ -316,83 +369,116 @@ h1 {
   border: 1px solid rgba(255, 255, 255, 0.1);
   border-radius: 10px;
   /* transform: translate(-80px, 50px); */
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 
 .content .text-box h3{
   font-size: 2em;
   margin-bottom: 10px;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 
 .media-icons{
   margin-top: 100px;
   size: 5px;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 .media-icons:hover{
-  size: 10px;
+  size: 10px;cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 .media-icons a{
   color: #fff;
   font-size: 2em;
   margin: 60px;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 
 .section-title{
   font-size: 3em;
   margin-bottom: 80px;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 
 .info-title{
   font-size: 1.8em;
   margin-bottom: 10px;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 
 .info{
   width: 700px;
   margin-left: 50px;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 
 .media-info{
   width: 400px;
   margin-left: 50px;
   transition: 0.75s;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 
 .media-info li{
   list-style: none;
   font-size: 1.4em;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
   
 }
 .media-info li:hover{
   list-style: none;
   font-size: 1.6em;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
   
 }
 .media-info li a{
   color: #fff;
   text-decoration: none;
   transition: 0.75s;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 
 .media-info li:not(:last-child){
   margin-bottom: 50px;
   transition: 0.75s;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 
 .media-info li:nth-child(1), .media-info li:nth-child(5){
   padding-left: 100px;
   transition: 0.75s;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 
 .media-info li:nth-child(2), .media-info li:nth-child(4){
   padding-left: 50px;
-  transition: 0.75s;
+ transition: 0.75s;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 
 .sec-03{
   margin-bottom: 100px;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 .sec-04{
   margin-bottom: 100px;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
 }
 @media (max-width: maximum_width_px) {
     changes {
