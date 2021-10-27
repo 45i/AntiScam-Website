@@ -229,7 +229,7 @@ cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/
 	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
 
 }
-.no-go span{
+.no-go a{
 	color: white;
 	background: grey;
   font-size: 17px;
@@ -269,7 +269,7 @@ cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/
 .c--anim-btn:hover .c-anim-btn{
         margin-top: -5em;
         background: #4e1a0c8b;
-	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">👻</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">🔗</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
 
         }
 .container{
