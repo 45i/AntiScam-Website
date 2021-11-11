@@ -19,16 +19,18 @@ body{
   background: #76250f;
   
 }
-body a{
+a{
 	  background: black;
   color: white;
   transition: .5s;
+	text-decoration: none;
 	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="64">☝<text y="14" font-size="16">🔍🔗</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
 }
-body a:hover{
+a:hover{
   background: white;
   color: black;
   transition: .5s;
+	text-decoration: none;
 	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="64">☝<text y="14" font-size="16">🔍🔗</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
 
 }
@@ -55,11 +57,7 @@ nav ul {
 	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">🔍</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
 
 }
-a{
-  text-decoration: none;
-	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="64">☝<text y="14" font-size="16">🔍🔗</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
 
-}
 nav li {
   display: inline-block;
   line-height: 80px;
