@@ -8,7 +8,7 @@
 - Tommyinnit (last username before he shifted to "᲼᲼᲼᲼᲼") [᲼᲼᲼᲼᲼#6583]
 - Kimiwws1 [Kimiwws1#4895]
 - EnderArcherBoy [EnderArcherBoy#3579]
-And Me!
+- And Me!
 
 ### A very special thank you to butter dog#8605 for letting me use his domain "pikostudios.dev"
 
