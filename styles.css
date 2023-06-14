@@ -404,7 +404,7 @@ cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/
 
 }
 .image:hover{
-  width: 980px;
+  width: 1080px;
   height: 400px;
   transition: 0.75s;
   overflow: unset;
