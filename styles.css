@@ -76,6 +76,7 @@ nav button {
 
 }
 button{
+  display: inline-block;
   color: black;
   font-size: 17px;
   padding: 7px 13px;
@@ -83,6 +84,7 @@ button{
 	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="64">☝<text y="14" font-size="16">🔍🔗</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
 }
 button:hover{
+  display: inline-block;
   background: black;
   color: white;
   transition: .5s;
