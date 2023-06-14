@@ -84,7 +84,7 @@ nav button {
 }
   background: black;
   color: white;
-  box-shadow: 0 0 0px white inset;
+  box-shadow: 0 0 0px rgba(255, 255, 255, 0) inset;
   font-size: 17px;
   padding: 7px 13px;
   border-radius: 3px;transition: .5s;
@@ -92,7 +92,7 @@ nav button {
 }
  button:hover{
   display: inline-block;
-  box-shadow: 0 0 0px white inset;
+  box-shadow: 0 0 0px rgba(255, 255, 255, 0) inset;
   background: white;
   color: black;
   transition: .5s;
