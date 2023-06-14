@@ -151,7 +151,7 @@ cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/
   justify-content: center;
   align-items: center;
   padding: 80px 100px;
-  color: #fff;
+  color: wheat;
 }
   @keyframes animateslash{
     0%{
@@ -246,7 +246,7 @@ cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/
 /* Handle */
 
 h1 {
-    color: #EEEEEE;
+    color: wheat;
 	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">🔍</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
 
 }
@@ -468,7 +468,7 @@ cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/
 
 }
 .media-icons a{
-  color: #fff;
+  color: wheat;
   font-size: 2em;
   margin: 60px;
 	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">🔍</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
@@ -519,7 +519,7 @@ cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/
   
 }
 .media-info li a{
-  color: #fff;
+  color: wheat;
   text-decoration: none;
   transition: 0.75s;
 	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">🔍</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
