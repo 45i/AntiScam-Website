@@ -19,6 +19,7 @@ body{
   background: #76250f;
   
 }
+
 #bleh a{
 	  background: black;
   color: white;
@@ -279,6 +280,23 @@ cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/
 #hell{
   transition:  0.75s;
 	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">🔍</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
+}
+#dumass{
+  transition:  0.75s;
+  cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">🔍</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
+}
+#dumass h3:hover{
+  content: "He Real Stupid";
+  transition:  0.75s;
+  cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">🔍</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
+
+}
+#dumass h3:active{
+  content: "45i's Dumbassery";
+  transition:  0.75s;
+  cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">☝<text y="14" font-size="16">🔍</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
 
 }
 .no-go a{
