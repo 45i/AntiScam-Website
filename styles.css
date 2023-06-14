@@ -26,8 +26,10 @@ body{
 	text-decoration: none;
 	cursor: url('data:image/svg+xml;charset=utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="64">☝<text y="14" font-size="16">🔍🔗</text><path d="M0,2 L0,0 L2,0" fill="30405600" /></svg>'), context-menu;
 }
-body a{
-	text-decoration: none;}
+body :any-link{
+	text-decoration: none;
+  color: white;
+}
 #bleh a:hover{
   background: white;
   color: black;
@@ -77,6 +79,7 @@ nav button {
 }
 body button{
   display: inline-block;
+  
   color: black;
   font-size: 17px;
   padding: 7px 13px;
